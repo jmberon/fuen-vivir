@@ -882,6 +882,7 @@ label {
 .main-header .logo-box .logo img {
   display: inline-block;
   max-width: 100%;
+  height: 75px;
   -webkit-transition: all 300ms ease;
   -ms-transition: all 300ms ease;
   -o-transition: all 300ms ease;
@@ -9513,7 +9514,7 @@ tr {
   }
 
   .main-header {
-    padding: 15px;
+    padding: 6px 15px
   }
 
   .mobile-button {
